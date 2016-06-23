@@ -870,7 +870,7 @@
 
                     <div class="col-md-4 tab-image text-center">
 
-                        <img class="img-responsive center-block" src="prod/img/thumbs/team.png" alt="about-image" />
+                        <img class="img-responsive center-block" src="prod/img/thumbs/team.gif" alt="about-image" />
 
                     </div>	<!-- END ABOUT SECTION IMAGE -->
 

@@ -62,7 +62,7 @@ body {
 
 	height: 200px;
 
-	background-image: url(img/icons/loader.GIF);
+	background-image: url(img/icons/loader.gif);
 
 	background-position: center;
 
@@ -2350,7 +2350,7 @@ a:focus {
 
 .portfolio-item a {
 
-	cursor: url(../img/icons/pointer.png),crosshair;
+	cursor: url(img/icons/pointer.png),crosshair;
 
 }
 

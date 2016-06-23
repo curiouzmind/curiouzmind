@@ -26,7 +26,7 @@ var minify = require('html-minifier').minify;
 // PHP Server with BrowserSync
 var reload = browserSync.reload;
 gulp.task('php', function() {
-    php.server({ base: '/', port: 8010, keepalive: true});
+    php.server({ base: '/Users/bolaj/projects/work/curiouzmind', port: 8010, keepalive: true});
 });
 gulp.task('browser-sync', ['php'], function() {
     browserSync({
@@ -80,7 +80,7 @@ gulp.task('useref', function() {
                 browsers: ['last 2 versions']
               })))
               .pipe(gulpIf('*.css', cssnano()))
-              .pipe(gulp.dest('/'))
+              .pipe(gulp.dest('/Users/bolaj/projects/work/curiouzmind'))
 });
 // optimize images and copy to prod
 gulp.task('images', function() {
