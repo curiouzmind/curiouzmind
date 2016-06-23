@@ -15,7 +15,7 @@
 	<head>
 		<!-- Basic -->
 		<meta charset="utf-8">
-		<title>CuriouzMind Tech | The Web Agency</title>
+		<title>CuriouzMind Tech | Web Agency</title>
 		<meta name="author" content="CuriouzMind">
 		<meta name="keywords" content="web design, web development, graphic design, digital marketing, mobile app development, cms, content management system, custom applications, software development, app makers, brand identity, e-commerce">
 		<meta name="description" content="CuriouzMind Tech - The Web Design & Development Agency">
