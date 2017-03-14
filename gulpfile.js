@@ -26,11 +26,11 @@ var minify = require('html-minifier').minify;
 // PHP Server with BrowserSync
 var reload = browserSync.reload;
 gulp.task('php', function() {
-    php.server({ base: '/Users/bolaj/projects/work/curiouzmind', port: 8010, keepalive: true});
+    php.server({ base: '/prod', port: 8010, keepalive: true});
 });
 gulp.task('browser-sync', ['php'], function() {
     browserSync({
-      proxy: 'curiouzmind.local:8010',
+      proxy: '127.0.0.1:8010',
       port: 8080,
       open: true,
       notify: true
