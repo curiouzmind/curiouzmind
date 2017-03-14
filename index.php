@@ -21,7 +21,8 @@
 		<meta name="description" content="CuriouzMind Tech - The Web Design & Development Agency">
 		<!-- Mobile Specific Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		<link rel="stylesheet" href="prod/css/all.min.css">
+        <link rel="stylesheet" href="prod/css/all.min.css">
+        <link rel="stylesheet" href="prod/css/font-awesome.min.css">
 
 		<link rel="shortcut icon" href="prod/img/icons/favicon.ico">
 		<link rel="apple-touch-icon" sizes="144x144" href="prod/img/icons/apple-touch-icon-144x144.png">
