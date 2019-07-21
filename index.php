@@ -25,9 +25,9 @@
         </script>
 		<!-- Basic -->
 		<meta charset="utf-8">
-		<title>CuriouzMind | Web Agency</title>
+		<title>UAT CuriouzMind | Web Agency</title>
 		<meta name="author" content="CuriouzMind">
-		<meta name="keywords" content="web design, web development, graphic design, digital marketing, mobile app development, cms, content management system, custom applications, software development, app makers, brand identity, e-commerce">
+		<meta name="keywords" content="web design, web designer, web design Nigeria, web development, graphic design, digital marketing, mobile app development, cms, content management system, custom applications, software development, app makers, brand identity, e-commerce">
 		<meta name="description" content="CuriouzMind Tech - The Web Design & Development Agency">
 		<!-- Mobile Specific Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
