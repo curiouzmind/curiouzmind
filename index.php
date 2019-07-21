@@ -1297,7 +1297,7 @@
 
                     <div id="footer_copyright" class="col-sm-12">
 
-                        <p>Copyright 2015 <span>CuriouzMind Tech</span>. All Rights Reserved.</p>
+                        <p>Copyright 2019 <span>CuriouzMind Tech</span>. All Rights Reserved.</p>
 
                     </div>
 
