@@ -13,6 +13,16 @@
 <html lang="en"> <!--<![endif]-->
 
 	<head>
+        <!-- oogle analytics tracker -->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-72701153-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-72701153-1');
+        </script>
 		<!-- Basic -->
 		<meta charset="utf-8">
 		<title>CuriouzMind | Web Agency</title>
